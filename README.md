@@ -11,4 +11,8 @@ This is the famous and one of the best Trainings of DevOps
 Adding GIT Comparision tutorial
 
 #####GITHub Content 
-Comparistion with REpo
+Comparistion with REPO
+Adding New Lectures to GIT Stash
+
+#### GIT Stash
+Git Stash Lectures
